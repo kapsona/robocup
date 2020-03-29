@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robocup/static/css/main.5f361e03.chunk.css",
+    "main.js": "/robocup/static/js/main.757b2d3f.chunk.js",
+    "main.js.map": "/robocup/static/js/main.757b2d3f.chunk.js.map",
+    "runtime-main.js": "/robocup/static/js/runtime-main.63b3ff99.js",
+    "runtime-main.js.map": "/robocup/static/js/runtime-main.63b3ff99.js.map",
+    "static/js/2.c16bb05b.chunk.js": "/robocup/static/js/2.c16bb05b.chunk.js",
+    "static/js/2.c16bb05b.chunk.js.map": "/robocup/static/js/2.c16bb05b.chunk.js.map",
+    "index.html": "/robocup/index.html",
+    "precache-manifest.96c40dd0311f395826490d9efbe04646.js": "/robocup/precache-manifest.96c40dd0311f395826490d9efbe04646.js",
+    "service-worker.js": "/robocup/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/robocup/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c16bb05b.chunk.js.LICENSE.txt": "/robocup/static/js/2.c16bb05b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/robocup/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63b3ff99.js",
+    "static/js/2.c16bb05b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.757b2d3f.chunk.js"
+  ]
+}
